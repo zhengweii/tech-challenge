@@ -24,7 +24,6 @@ Suggestion:
 Be creative for UI design 
 
 <br/><br/>
-<br/><br/>
 
 #Back-end Developer Coding Challenge
 
