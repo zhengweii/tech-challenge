@@ -1,6 +1,6 @@
-#Front-end Coding Challenge
+## Front-end Coding Challenge
 
-## Goal:
+### Goal:
 
 #### Develop a Front-end app that allows a user to see their albums and its' associated photographs
 
